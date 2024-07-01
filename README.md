@@ -9,6 +9,8 @@
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
+
+
 ## Objective
 
 The objective of this project is to build a neural network from scratch to evaluate the MNIST dataset. The MNIST dataset is a collection of handwritten digits and is commonly used as a benchmark for image classification tasks in machine learning. By achieving high accuracy on this dataset, the model demonstrates its ability to perform well on similar classification tasks.
